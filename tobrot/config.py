@@ -7,7 +7,7 @@ class Config(Config):
     APP_ID = 989886 #imp
     API_HASH = "7e4d0fb30703f1746b65310c62a41807" #imp
     AUTH_CHANNEL = [-1001158930858, 888614242] #imp replace your_id with your id from telegram or delete
-    INDEX_LINK = "https://torrentleech.torrentleech-gdrive.workers.dev
+    INDEX_LINK = "https://server.surajmeena.workers.dev/
     GLEECH_COMMAND = "gleech@TorrentLeech_Gdrivebot"
     YTDL_COMMAND = 'ytdl@TorrentLeech_Gdrivebot'
     TELEGRAM_LEECH_COMMAND_G = "tleech@TorrentLeechBot"
